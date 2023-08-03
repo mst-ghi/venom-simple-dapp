@@ -1,0 +1,38 @@
+{
+  "name": "venom-simple-dapp",
+  "version": "0.0.1",
+  "author": "Mostafa Gholami",
+  "license": "MIT",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "lint": "next lint",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@mantine/core": "^6.0.17",
+    "@mantine/hooks": "^6.0.17",
+    "@mantine/modals": "^6.0.17",
+    "@mantine/notifications": "^6.0.17",
+    "@tabler/icons-react": "^2.30.0",
+    "dayjs": "^1.11.9",
+    "everscale-inpage-provider": "^0.3.58",
+    "everscale-standalone-client": "^2.1.18",
+    "mantine-datatable": "^2.9.3",
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "venom-connect": "^1.0.18"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.5",
+    "@types/react": "18.2.18",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.46.0",
+    "eslint-config-next": "13.4.12",
+    "prettier": "^3.0.0",
+    "typescript": "5.1.6"
+  }
+}

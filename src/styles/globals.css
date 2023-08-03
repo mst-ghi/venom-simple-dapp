@@ -1,0 +1,12 @@
+body {
+  background-color: #0f1116;
+  color: hsla(0, 0%, 100%, 0.6);
+}
+
+button {
+  background: hsla(0, 0%, 100%, 0.12);
+}
+
+button:hover {
+  background: hsla(0, 0%, 100%, 0.3);
+}
